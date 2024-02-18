@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GEProjectEditor/1.0.0": {
+        "runtime": {
+          "GEProjectEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GEProjectEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

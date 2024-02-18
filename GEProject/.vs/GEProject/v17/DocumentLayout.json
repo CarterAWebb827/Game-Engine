@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|c:\\users\\carter\\desktop\\coding projects\\game-engine\\geproject\\geprojecteditor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|solutionrelative:geprojecteditor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|c:\\users\\carter\\desktop\\coding projects\\game-engine\\geproject\\geprojecteditor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|solutionrelative:geprojecteditor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|c:\\users\\carter\\desktop\\coding projects\\game-engine\\geproject\\geprojecteditor\\gameproject\\projectbrowserdialg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|solutionrelative:geprojecteditor\\gameproject\\projectbrowserdialg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|c:\\users\\carter\\desktop\\coding projects\\game-engine\\geproject\\geprojecteditor\\gameproject\\projectbrowserdialg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|solutionrelative:geprojecteditor\\gameproject\\projectbrowserdialg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|c:\\users\\carter\\desktop\\coding projects\\game-engine\\geproject\\geprojecteditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|solutionrelative:geprojecteditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|c:\\users\\carter\\desktop\\coding projects\\game-engine\\geproject\\geprojecteditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD908C8-1CC7-429F-8D18-09C09F3BAE5C}|GEProjectEditor\\GEProjectEditor.csproj|solutionrelative:geprojecteditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9A023A-1D31-4BB2-96CA-A42F66BED67A}|Engine\\Engine.vcxproj|C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B9A023A-1D31-4BB2-96CA-A42F66BED67A}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenProjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\GameProject\\OpenProjectView.xaml",
+              "RelativeDocumentMoniker": "GEProjectEditor\\GameProject\\OpenProjectView.xaml",
+              "ToolTip": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\GameProject\\OpenProjectView.xaml",
+              "RelativeToolTip": "GEProjectEditor\\GameProject\\OpenProjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-18T06:46:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewProjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\GameProject\\NewProjectView.xaml",
+              "RelativeDocumentMoniker": "GEProjectEditor\\GameProject\\NewProjectView.xaml",
+              "ToolTip": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\GameProject\\NewProjectView.xaml",
+              "RelativeToolTip": "GEProjectEditor\\GameProject\\NewProjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-18T06:46:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectBrowserDialg.xaml",
+              "DocumentMoniker": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\GameProject\\ProjectBrowserDialg.xaml",
+              "RelativeDocumentMoniker": "GEProjectEditor\\GameProject\\ProjectBrowserDialg.xaml",
+              "ToolTip": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\GameProject\\ProjectBrowserDialg.xaml",
+              "RelativeToolTip": "GEProjectEditor\\GameProject\\ProjectBrowserDialg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-18T06:24:29.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectBrowserDialg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\GameProject\\ProjectBrowserDialg.xaml.cs",
+              "RelativeDocumentMoniker": "GEProjectEditor\\GameProject\\ProjectBrowserDialg.xaml.cs",
+              "ToolTip": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\GameProject\\ProjectBrowserDialg.xaml.cs",
+              "RelativeToolTip": "GEProjectEditor\\GameProject\\ProjectBrowserDialg.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvygAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T06:39:59.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GEProjectEditor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\MainWindow.xaml",
+              "RelativeToolTip": "GEProjectEditor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-18T06:08:18.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GEProjectEditor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\GEProjectEditor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GEProjectEditor\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T06:08:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\Engine\\Engine.cpp",
+              "RelativeDocumentMoniker": "Engine\\Engine.cpp",
+              "ToolTip": "C:\\Users\\Carter\\Desktop\\Coding Projects\\Game-Engine\\GEProject\\Engine\\Engine.cpp",
+              "RelativeToolTip": "Engine\\Engine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T05:27:59.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
