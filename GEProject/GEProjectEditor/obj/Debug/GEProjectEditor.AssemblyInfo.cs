@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GEProjectEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+206d8f8ee0bb5d2dbdb8f672da02ec62cbf10a5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a889d287dbc75f50cb5147537056c23cfa6604")]
 [assembly: System.Reflection.AssemblyProductAttribute("GEProjectEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GEProjectEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
